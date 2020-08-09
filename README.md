@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://github.com/priyankkabaria/covid19-tracker-app/issues/1#issue-675623975
+![image](https://user-images.githubusercontent.com/616406/89723749-2024ac80-d9af-11ea-9887-0d8b8d8efe57.png)
+
 
 
 
